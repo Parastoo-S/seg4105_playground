@@ -1,0 +1,1 @@
+print ("SEG4145 Lab1 - Python source file")
